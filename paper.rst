@@ -24,9 +24,12 @@ Introduction
 Data science education has become incredibly in demand over the past decade, with increasing numbers of undergraduate programs and majors being developed. With this growth has come the rapid development of Jupyterhubs, which creates on demand, cloud based Jupyter notebooks for students and researchers. Jupyterhubs offer many benefits in addition to the flexibility and compatibility of the Jupyter environment, such as customization for different use cases, authentication, and campus-wide computing and storage. Overall, universities have found that using JupyterHubs can allow existing courses to scale while maintaining rigor and quality. But what has been the experience like for universities who have or are attempting to deploy Jupyterhub? This paper aims to document and understand the approaches and experiences of different universities who have successfully deployed Jupyterhub instances. 
 
 Main Questions: 
-Equity: Which institutions or departments have the ability to setup their own Jupyterhub? 
-Scalability: How many universities, courses and students can each model of Jupyterhub support?
-Sustainability: How expensive is it to deploy and maintain Jupyterhub infrastructure? 
+
+	- Equity: Which institutions or departments have the ability to setup their own Jupyterhub? 
+
+	- Scalability: How many universities, courses and students can each model of Jupyterhub support?
+	
+	- Sustainability: How expensive is it to deploy and maintain Jupyterhub infrastructure? 
 
 To understand how Jupyterhub is affecting the equity, scalability, and sustainability of data science, we will investigate four cases studies of how JupyterHubs are being deployed in academic institutions across the United States and Canada that will highlight strengths and challenges of each model. These include: large, technical universities such as UC Berkeley, liberal arts colleges, wealthy private universities like Harvard, and the Canadian National Jupyterhub Model. 
 
@@ -60,3 +63,4 @@ References
 .. [1] Shapiro, J. (2017). Computing Through Biology with Jupyter. https://github.com/BrynMawrCollege/TIDES/blob/master/JupyterDayPhilly/JAShapiro_JupyterDayPhilly_2017-05-19.pdf
 .. [2] Harvard. (2018). cloudJHub. https://github.com/harvard/cloudJHub
 .. [3] Pacific Institute for the Mathematical Sciences. (2017). Canadians Land on Jupyter. https://www.pims.math.ca/news/canadians-land-jupyter
+.. [4] Mandava, V. (2017). NSF Big Data Innovation Hubs collaboration — looking back after one year. https://www.microsoft.com/en-us/research/blog/nsf-big-data-innovation-hubs-collaboration/
