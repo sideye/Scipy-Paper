@@ -1,7 +1,6 @@
 :author: Laura Norén
 :email: laura.noren@nyu.edu
-:institution: New Yok University 
-:corresponding:
+:institution: New York University 
 
 :author: Anthony Suen
 :email: anthonysuen@berkeley.edu
@@ -58,5 +57,6 @@ Case Study 4: Canadian Federation (PIMS)
 
 References
 ----------
-.. [Atr03] P. Atreides. *How to catch a sandworm*,
-           Transactions on Terraforming, 21(3):261-300, August 2003.
+.. [1] Shapiro, J. (2017). Computing Through Biology with Jupyter. https://github.com/BrynMawrCollege/TIDES/blob/master/JupyterDayPhilly/JAShapiro_JupyterDayPhilly_2017-05-19.pdf
+.. [2] Harvard. (2018). cloudJHub. https://github.com/harvard/cloudJHub
+.. [3] Pacific Institute for the Mathematical Sciences. (2017). Canadians Land on Jupyter. https://www.pims.math.ca/news/canadians-land-jupyter
